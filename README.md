@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - 🌍 I live in Fillinges, Haute-Savoie, France
 - 🙂 I’m currently learning Javascript (nodejs, express, API REST, MVC, SQL, PostgreSQL...)
-- 🧠 After school I will learn React and Typescript
+- 🧠 After school I will also learn React and Typescript
 - 📫 How to reach me: jonathan.engles74@gmail.com
 
 ## Skills
