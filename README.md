@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanEngles&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanEngles&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
